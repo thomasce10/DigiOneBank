@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63286e44-39b0-4a67-8dc1-2eceab5fbd9a" name="Changes" comment="implementando classe People.kt">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="63286e44-39b0-4a67-8dc1-2eceab5fbd9a" name="Changes" comment="Correção e adição de arquivos-base.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/People.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/People.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646338605296</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Correção e adição de arquivos-base.">
+      <created>1646339760831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646339760831</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="implementando classe People.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementando classe People.kt" />
+    <MESSAGE value="Correção e adição de arquivos-base." />
+    <option name="LAST_COMMIT_MESSAGE" value="Correção e adição de arquivos-base." />
   </component>
 </project>
