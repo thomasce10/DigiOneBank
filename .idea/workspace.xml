@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63286e44-39b0-4a67-8dc1-2eceab5fbd9a" name="Changes" comment="Correção e adição de arquivos-base.">
+    <list default="true" id="63286e44-39b0-4a67-8dc1-2eceab5fbd9a" name="Changes" comment="applying private proprieties to cpf function in People class">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/Account.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/People.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/People.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -77,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646339760831</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="applying private proprieties to cpf function in People class">
+      <created>1646340447136</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646340447136</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="implementando classe People.kt" />
     <MESSAGE value="Correção e adição de arquivos-base." />
-    <option name="LAST_COMMIT_MESSAGE" value="Correção e adição de arquivos-base." />
+    <MESSAGE value="applying private proprieties to cpf function in People class" />
+    <option name="LAST_COMMIT_MESSAGE" value="applying private proprieties to cpf function in People class" />
   </component>
 </project>
