@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63286e44-39b0-4a67-8dc1-2eceab5fbd9a" name="Changes" comment="update to implement the Account class">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/Bank.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/testes/BancoTeste.kt" afterDir="false" />
+    <list default="true" id="63286e44-39b0-4a67-8dc1-2eceab5fbd9a" name="Changes" comment="created data class Bank and a test class">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/ClienteTipo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteClienteTipoEnum.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -43,7 +44,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
-  <component name="RunManager" selected="Kotlin.BancoTesteKt">
+  <component name="RunManager" selected="Kotlin.TesteClienteTipoEnumKt">
     <configuration name="BancoTesteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.digionebank.testes.BancoTesteKt" />
       <module name="DigiOneBank" />
@@ -58,8 +59,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteClienteTipoEnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.digionebank.testes.TesteClienteTipoEnumKt" />
+      <module name="DigiOneBank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteClienteTipoEnumKt" />
         <item itemvalue="Kotlin.BancoTesteKt" />
         <item itemvalue="Kotlin.PeopleKt" />
       </list>
@@ -102,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646341852072</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="created data class Bank and a test class">
+      <created>1646342961851</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646342961851</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +137,7 @@
     <MESSAGE value="Correção e adição de arquivos-base." />
     <MESSAGE value="applying private proprieties to cpf function in People class" />
     <MESSAGE value="update to implement the Account class" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to implement the Account class" />
+    <MESSAGE value="created data class Bank and a test class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created data class Bank and a test class" />
   </component>
 </project>
