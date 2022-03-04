@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63286e44-39b0-4a67-8dc1-2eceab5fbd9a" name="Changes" comment="created enum client type and test it">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/Employee.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/testes/TestePeople.kt" afterDir="false" />
+    <list default="true" id="63286e44-39b0-4a67-8dc1-2eceab5fbd9a" name="Changes" comment="created abstract class people">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/Employee.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/Employee.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/People.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/People.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646350640894</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="created abstract class people">
+      <created>1646405376596</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646405376596</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +161,7 @@
     <MESSAGE value="update to implement the Account class" />
     <MESSAGE value="created data class Bank and a test class" />
     <MESSAGE value="created enum client type and test it" />
-    <option name="LAST_COMMIT_MESSAGE" value="created enum client type and test it" />
+    <MESSAGE value="created abstract class people" />
+    <option name="LAST_COMMIT_MESSAGE" value="created abstract class people" />
   </component>
 </project>
